@@ -5,3 +5,6 @@ The default Junit framework behavior is to perform the whole tests execution wha
 Apache License V2.0
 
 You can use and modify the library as you like.
+
+# Download Library
+[Maven Repo](https://github.com/OpenSoftwareSolutions/mvn-repo)
